@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-express-service",
+  "version": "1.0.0",
+  "description": "A Node.js service using Puppeteer and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0"
+  }
+}
